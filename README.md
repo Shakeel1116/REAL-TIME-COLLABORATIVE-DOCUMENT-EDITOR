@@ -315,5 +315,4 @@ Channel](https://discord.com/invite/daEjfhw).
 ## License
 
 [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0.html)
-#   R E A L - T I M E - C O L L A B O R A T I V E - D O C U M E N T - E D I T O R  
- 
+#
